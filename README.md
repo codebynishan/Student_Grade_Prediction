@@ -1,4 +1,4 @@
-# Student Performance Prediction
+## Student Performance Prediction
 
 * Project Overview
 This project predicts the final grade (G3) of students based on various factors such as study time, family background, health, and past academic performance. The dataset used is from Kaggle.
